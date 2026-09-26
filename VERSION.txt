@@ -1,0 +1,6 @@
+MŌVA Business Manager
+Release: 4.2.4-final-ready
+Android versionName: 4.2.4
+Android versionCode: 424
+Package: id.mova.business
+Supabase JS: 2.117.2

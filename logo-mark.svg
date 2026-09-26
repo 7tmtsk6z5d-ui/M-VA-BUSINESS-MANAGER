@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="MŌVA monogram">
+  <rect width="512" height="512" rx="112" fill="#0A1628"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="54" stroke-linecap="butt" stroke-linejoin="miter">
+    <path d="M132 380V132"/>
+    <path d="M380 380V132"/>
+    <path d="M132 132L256 300"/>
+    <path d="M380 132L256 300"/>
+  </g>
+  <path d="M256 300L256 342" fill="none" stroke="#FFFFFF" stroke-width="54" stroke-linecap="butt"/>
+</svg>
