@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 360" role="img" aria-label="MŌVA">
+  <g fill="none" stroke="#0A1628" stroke-width="34" stroke-linecap="butt" stroke-linejoin="miter">
+    <path d="M55 300V60"/>
+    <path d="M295 300V60"/>
+    <path d="M55 60L175 224"/>
+    <path d="M295 60L175 224"/>
+  </g>
+  <path d="M175 224V264" fill="none" stroke="#0A1628" stroke-width="34" stroke-linecap="butt"/>
+  <text x="365" y="235" fill="#0A1628" font-family="Montserrat,Inter,Arial,sans-serif" font-size="150" font-weight="600" letter-spacing="9">MŌVA</text>
+</svg>

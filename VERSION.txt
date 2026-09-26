@@ -1,0 +1,8 @@
+MŌVA Business Manager
+Release: 4.2.5-final
+Android versionName: 4.2.5
+Android versionCode: 425
+Package: id.mova.business
+Production web URL: https://7tmtsk6z5d-ui.github.io/M-VA-BUSINESS-MANAGER/
+Android OAuth callback: mova://auth/callback
+Supabase JS: 2.117.2
